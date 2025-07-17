@@ -1,4 +1,4 @@
-task = input("Enter a task: ") .strip()
+task = input("Enter your task: ") .strip()
 priority = input("Priority (high/medium/low): ").strip().lower()
 time_bound = input("Is it time-bound? (yes/no): ").strip().lower()
 
