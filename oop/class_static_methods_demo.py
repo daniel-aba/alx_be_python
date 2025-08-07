@@ -45,3 +45,4 @@ class Calculator:
         """
         print(f"Calculation type: {cls.calculation_type}")
         return a * b
+    
